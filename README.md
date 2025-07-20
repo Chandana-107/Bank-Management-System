@@ -20,7 +20,9 @@ A simple C++ console application for managing bank accounts using binary file st
 ## How to Build & Run
 
 Make sure you have a C++ compiler installed (like g++):
+
 g++ bank_system.cpp -o bank_system
+
 ./bank_system
 
 ## Sample Menu UI
@@ -34,6 +36,7 @@ g++ bank_system.cpp -o bank_system
 7. Display All Accounts
 8. View Transaction Logs
 9. Exit
+    
 ===========================================
 
 ## Concepts Used
